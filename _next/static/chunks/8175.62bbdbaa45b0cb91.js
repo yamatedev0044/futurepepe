@@ -712,7 +712,7 @@
                                           }),
                                           (0, r.jsxs)(l(), {
                                             target: "_blank",
-                                            href: "https://x.com/#",
+                                            href: "https://x.com/FuturePepeETH",
                                             className:
                                               "commonBtn relative mt-4 md:flex items-center justify-center hidden",
                                             children: [
@@ -841,7 +841,7 @@
                                             className: "my-[50px]",
                                             children: (0, r.jsxs)(l(), {
                                               target: "_blank",
-                                              href: "https://x.com/#",
+                                              href: "https://x.com/FuturePepeETH",
                                               className:
                                                 "commonBtn relative w-auto h-auto px-3 pt-2 mt-2 text-[14px]",
                                               children: [

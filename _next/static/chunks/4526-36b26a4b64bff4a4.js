@@ -1197,7 +1197,7 @@
                               className: "",
                               children: (0, a.jsx)(l(), {
                                 target: "_blank",
-                                href: "https://x.com/#",
+                                href: "https://x.com/FuturePepeETH",
                                 className:
                                   "transition duration-[400ms] hover:text-[#26fa0f]",
                                 children: u,
@@ -1207,7 +1207,7 @@
                               className: "",
                               children: (0, a.jsx)(l(), {
                                 target: "_blank",
-                                href: "https://t.me/#",
+                                href: "https://t.me/futurepepe_eth",
                                 className:
                                   "transition duration-[400ms] hover:text-[#26fa0f]",
                                 children: d,
@@ -1651,14 +1651,14 @@
                                     children: [
                                       (0, a.jsx)(l(), {
                                         target: "_blank",
-                                        href: "https://x.com/#",
+                                        href: "https://x.com/FuturePepeETH",
                                         className:
                                           "transition duration-[400ms] hover:text-[#26fa0f]",
                                         children: h,
                                       }),
                                       (0, a.jsx)(l(), {
                                         target: "_blank",
-                                        href: "https://t.me/#",
+                                        href: "https://t.me/futurepepe_eth",
                                         className:
                                           "transition duration-[400ms] hover:text-[#26fa0f]",
                                         children: w,

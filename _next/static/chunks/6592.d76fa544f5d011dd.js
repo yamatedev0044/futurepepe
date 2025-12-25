@@ -105,7 +105,7 @@
                               children: m,
                             }),
                             (0, i.jsxs)(o(), {
-                              href: "https://t.me/#",
+                              href: "https://t.me/futurepepe_eth",
                               target: "_blank",
                               className:
                                 "nav-link font-zupraxu joinlink relative inline-flex lg:px-[30px] items-center justify-center transition duration-[440ms] md:text-[25px] md:leading-[45px] z-[9] relative px-4 pb-1 text-[#064200] z-[9] relative",
