@@ -155,7 +155,7 @@
                                   key: "3",
                                   title: "When will I receive my tokens?",
                                   content:
-                                    "All $FPEPE you buy will be airdropped automatically to the same wallet within 24 hours after TGE, before trading goes live. No claim button, no extra gas—just watch your wallet balance update.",
+                                    "All $FEPE you buy will be airdropped automatically to the same wallet within 24 hours after TGE, before trading goes live. No claim button, no extra gas—just watch your wallet balance update.",
                                 },
                               ].map((t, l) =>
                                 (0, s.jsx)(

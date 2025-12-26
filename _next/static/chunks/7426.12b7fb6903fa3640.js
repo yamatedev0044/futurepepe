@@ -376,7 +376,7 @@
                                       className:
                                         "m-0 md:text-[18px] md:leading-relaxed leading-tight tracking-[10%] max-w-[500px] text-[#89FF7C] py-1",
                                       children:
-                                        "Buy $FPEPE with us and become a member of the Future Family.",
+                                        "Buy $FEPE with us and become a member of the Future Family.",
                                     }),
                                     (0, l.jsxs)(N, {
                                       className:
@@ -399,7 +399,7 @@
                                             (0, l.jsx)("span", {
                                               className:
                                                 "absolute top-0 w-full h-full z-[9] flex items-center justify-center left-0 uppercase font-zupraxu text-[18px] text-[#060900]",
-                                              children: "Buy $FPEPE",
+                                              children: "Buy $FEPE",
                                             }),
                                           ],
                                         }),
@@ -456,7 +456,7 @@
                                     className:
                                       "m-0 md:text-[18px] md:leading-relaxed leading-tight tracking-[10%] max-w-[500px] text-[#89FF7C] py-1",
                                     children:
-                                      "Buy $FPEPE with us and become a member of the Future Family.",
+                                      "Buy $FEPE with us and become a member of the Future Family.",
                                   }),
                                   (0, l.jsxs)(N, {
                                     className: "mt-4 flex items-center gap-3",

@@ -114,7 +114,7 @@
                                   className:
                                     "headingFront relative z-[9] top-[-4px] m-0 md:text-[46px] text-[30px] font-zupraxu",
                                   children:
-                                    "Stake Your $FPepe. Shape The Future.",
+                                    "Stake Your $FEPE. Shape The Future.",
                                 }),
                                 (0, s.jsx)("h2", {
                                   className:
@@ -124,7 +124,7 @@
                                     WebkitTextFillColor: "#000",
                                   },
                                   children:
-                                    "Stake Your $FPepe. Shape The Future.",
+                                    "Stake Your $FEPE. Shape The Future.",
                                 }),
                               ],
                             }),
@@ -158,7 +158,7 @@
                                   className:
                                     "m-0 themeClr py-1 px-2 [text-shadow:0_0_10px_#26FA0F] text-justify tracking-[2px] font-medium leading-relaxed md:text-base text-[18px]",
                                   children:
-                                    "Lock in your $FPEPE, earn steady rewards, and strengthen the future of decentralized communities.",
+                                    "Lock in your $FEPE, earn steady rewards, and strengthen the future of decentralized communities.",
                                 }),
                               }),
                             }),

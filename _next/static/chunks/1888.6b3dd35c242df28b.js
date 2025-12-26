@@ -59,7 +59,7 @@
                     }),
                     (0, s.jsx)("li", {
                       children:
-                        "Type the amount you want to spend—the dashboard instantly shows the $FPEPE you’ll receive",
+                        "Type the amount you want to spend—the dashboard instantly shows the $FEPE you’ll receive",
                     }),
                     (0, s.jsxs)("li", {
                       children: [

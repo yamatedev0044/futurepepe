@@ -940,7 +940,7 @@
                                 className: "m-0 py-2 text-white/80",
                                 children: [
                                   null == V ? void 0 : V.purchased,
-                                  " $FPEPE tokens will be available for you to claim once the presale ends.",
+                                  " $FEPE tokens will be available for you to claim once the presale ends.",
                                 ],
                               }),
                             ],
@@ -966,7 +966,7 @@
                                 className: "m-0 py-2 text-white/80",
                                 children: [
                                   null == V ? void 0 : V.purchased,
-                                  " $FPEPE tokens will be available for you to claim once the presale ends.",
+                                  " $FEPE tokens will be available for you to claim once the presale ends.",
                                 ],
                               }),
                               (0, a.jsx)(E, {
