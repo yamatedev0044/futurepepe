@@ -384,7 +384,7 @@
                                       children: [
                                         (0, l.jsxs)(w(), {
                                           target: "_blank",
-                                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                                           className:
                                             "relative h-[55px] border-0 p-0 transition duration-[400ms] hover:shadow-[0_0_10px_#26FA0F] rouned-xl",
                                           children: [
@@ -404,7 +404,7 @@
                                           ],
                                         }),
                                         (0, l.jsxs)(w(), {
-                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                                           target: "_blank",
                                           className:
                                             "relative h-[55px] border-0 p-0 transition duration-[400ms] hover:shadow-[0_0_10px_#26FA0F] rouned-xl",
@@ -463,7 +463,7 @@
                                     children: [
                                       (0, l.jsxs)(w(), {
                                         target: "_blank",
-                                        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                                        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                                         className:
                                           "relative md:h-[55px] cstmBtn text-[40px] border-0 p-0",
                                         children: [
@@ -483,7 +483,7 @@
                                         ],
                                       }),
                                       (0, l.jsxs)(w(), {
-                                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                                         target: "_blank",
                                         className:
                                           "relative cstmBtn md:h-[55px] text-[40px]  border-0 p-0",

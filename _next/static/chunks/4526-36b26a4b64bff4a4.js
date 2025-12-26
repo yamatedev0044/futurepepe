@@ -1529,7 +1529,7 @@
                       className: "right flex items-center gap-3 lg:hidden",
                       children: [
                         (0, a.jsxs)("a", {
-                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                           target: "_blank",
                           className:
                             "nav-link themeClr flex items-center justify-center relative font-zupraxu z-[9]  lg:text-[25px] text-[14px] transition duration-[400ms]",
@@ -1678,7 +1678,7 @@
                             children: (0, a.jsx)("li", {
                               className: "",
                               children: (0, a.jsxs)("a", {
-                                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x85c1ddfd0203ba23a91192144c2c246ea4d4c719",
                                 target: "_blank",
                                 className:
                                   "nav-link themeClr flex items-center justify-center relative font-zupraxu z-[9] text-[25px] transition duration-[400ms] rounded-xl bg-transparent ",
